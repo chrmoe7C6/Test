@@ -7,5 +7,6 @@ public class Hello {
 		int b = 7;
 		int result = a + b;
 		System.out.println(result);
+		System.out.println("sdf");
 	}
 }
